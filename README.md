@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Android Development using Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ezmoneysniperx?tab=repositories](https://github.com/ezmoneysniperx)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/ezmoneysniperx?tab=repositories)
 
 - 📫 How to reach me **gjuan111@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhgajendra/](https://www.linkedin.com/in/muhgajendra/)
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/muhgajendra/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
