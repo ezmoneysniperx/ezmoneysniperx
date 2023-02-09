@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development using Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ezmoneysniperx](https://github.com/ezmoneysniperx)
+- 👨‍💻 All of my projects are available at [https://github.com/ezmoneysniperx?tab=repositories](https://github.com/ezmoneysniperx)
 
 - 📫 How to reach me **gjuan111@gmail.com**
 
