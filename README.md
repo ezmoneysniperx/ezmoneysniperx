@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Gajendra Adhirajasa</h1>
 <h3 align="center">I am an Indonesian currently living in Turkey. I am a senior year software engineering student. I am interested in frontend, backend, and android development and also currently learning them. I also love to study and develop new skills while gaining more experience for myself.</h3>
 
-- 🔭 I’m currently working on [Sibernetik Android App](https://github.com/ezmoneysniperx/Sibernetik_App)
-
-- 🌱 I’m currently learning **Android Development using Kotlin**
-
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/ezmoneysniperx?tab=repositories)
 
 - 📫 How to reach me **gjuan111@gmail.com**
