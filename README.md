@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Gajendra Adhirajasa</h1>
-<h3 align="center">I am an Indonesian currently living in Turkey. I am a senior year software engineering student. I am interested in frontend, backend, and android development and also currently learning them. I also love to study and develop new skills while gaining more experience for myself.</h3>
+<h1 align="center">Hello 👋, I'm Muhammad Gajendra Adhirajasa</h1>
+<h3 align="center">I am an Indonesian currently living in Turkey. I am a senior year software engineering student. I am interested in frontend, backend, and android development and also currently learning them. I also love to study and develop new skills while gaining more experience for myself. I possess good teamwork and communication skills, which enables me to work collaboratively with team members and achieve successful results in developing projects.</h3>
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/ezmoneysniperx?tab=repositories)
 
