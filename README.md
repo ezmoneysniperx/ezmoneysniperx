@@ -2,7 +2,7 @@
 
 
 ## **About me**
-<h3 align="center">I am an Indonesian currently living in Turkey. I am a software engineering fresh graduate. I am interested in frontend, backend, and android development and also currently learning them. I also love to study and develop new skills while gaining more experience for myself. I possess good teamwork and communication skills, which enables me to work collaboratively with team members and achieve successful results in developing projects.</h3>
+<h3 align="center">I am an Indonesian currently living in Turkey. I am a software engineering fresh graduate passionate in full-stack development, and android development. I also love to study and develop new skills while gaining more experience for myself. I possess good teamwork and communication skills, which enables me to work collaboratively with team members and achieve successful results in developing projects.</h3>
 
 - 👨‍💻 All of my projects are available at [Portfolio Site](https://gajendra-portfolio.netlify.app/)
 
@@ -32,7 +32,6 @@
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>   
     
 - **Front-End Development**:
 
@@ -44,7 +43,6 @@
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br>
 
 
 - **Back-End Development**:
@@ -60,14 +58,12 @@
 
 
     
-<br>
 
 - **Mobile Development**:
 
     ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<br>
 
 - **Softwares and Tools**:
 
