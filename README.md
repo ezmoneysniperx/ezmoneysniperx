@@ -85,6 +85,5 @@
 -----
 <p>
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezmoneysniperx&theme=tokyonight" alt="ezmoneysniperx" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezmoneysniperx&theme=tokyonight" alt="ezmoneysniperx" />
     
 </p>
