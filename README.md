@@ -1,14 +1,14 @@
-<h1 align="center">Hello 👋, I'm Muhammad Gajendra Adhirajasa</h1>
+[Profile Banner](https://raw.githubusercontent.com/ezmoneysniperx/ezmoneysniperx/main/linkedin.JPEG)
 
 
 ## **About me**
 <h3 align="center">I am an Indonesian currently living in Turkey. I am a software engineering fresh graduate. I am interested in frontend, backend, and android development and also currently learning them. I also love to study and develop new skills while gaining more experience for myself. I possess good teamwork and communication skills, which enables me to work collaboratively with team members and achieve successful results in developing projects.</h3>
 
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/ezmoneysniperx?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio Site](https://gajendra-portfolio.netlify.app/)
 
 - 📫 How to reach me **gjuan111@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/muhgajendra/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DyyPEnSZcz6bUsfnJoZG_LEzDdYScsRy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
