@@ -20,8 +20,6 @@
 -----
 
 ## **Skills**
-<br>
-
 <p align="center">
 
 - **Languages**:
