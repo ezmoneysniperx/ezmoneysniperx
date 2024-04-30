@@ -2,13 +2,13 @@
 
 
 ## **About me**
-<h3 align="center">I am an Indonesian currently living in Turkey. I am a software engineering fresh graduate passionate in full-stack development, and android development. I also love to study and develop new skills while gaining more experience for myself. I possess good teamwork and communication skills, which enables me to work collaboratively with team members and achieve successful results in developing projects.</h3>
+<h3 align="center">I'm a Full stack developer who graduated from software engineering study in Türkiye. Proficient in front-end and back-end technologies, with hands-on experience in building responsive and user-friendly web applications. Skilled in utilizing modern frameworks, as well as integrating APIs and working with databases. Committed to delivering robust and scalable web solutions, while continuously expanding my skill set through collaboration and embracing new technologies.</h3>
 
 - 👨‍💻 All of my projects are available at [Portfolio Site](https://gajendra-portfolio.netlify.app/)
 
 - 📫 How to reach me **gjuan111@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DyyPEnSZcz6bUsfnJoZG_LEzDdYScsRy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DznEQh46xam3G5rp9hlshZy3EzTEov6J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
